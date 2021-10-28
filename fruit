@@ -1,0 +1,36 @@
+repeat wait() 
+until game:IsLoaded() 
+_G.HopFunction = true
+_G.AutoStoreFruit = true
+_G.WantFruit = {
+    "Bomb-Bomb",
+    "Spike-Spike",
+    "Chop-Chop",
+    "Spring-Spring",
+    "Kilo-Kilo",
+    "Spin-Spin",
+    "Bird: Falcon",
+    "Smoke-Smoke",
+    "Flame-Flame",
+    "Ice-Ice",
+    "Sand-Sand",
+    "Dark-Dark",
+    "Diamond-Diamond",
+    "Light-Light",
+    "Love-Love",
+    "Rubber-Rubber",
+    "Barrier-Barrier",
+    "Magma-Magma",
+    "Door-Door",
+    "Quake-Quake",
+    "Human-Human: Buddha",
+    "String-String",
+    "Bird-Bird: Phoenix",
+    "Rumble-Rumble",
+    "Paw-Paw",
+    "Gravity-Gravity",
+    "Dough-Dough",
+    "Vemon-Vemon",
+    "Control-Control",
+    "Dragon-Dragon",
+}
